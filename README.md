@@ -1,1 +1,2 @@
-#This is a readme for assignment 1
+#Mikolaj Sobiesiuk
+## hh2647
